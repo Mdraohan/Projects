@@ -1,0 +1,14 @@
+.navbar-nav a{
+    font-size: 18px;
+}
+/* <Navbar />
+<Switch>
+  <Route exact path="/" component={Home} />
+  <Route exact path="/Products" component={Products} />
+  <Route exact path="/products:/id" component={Product} />
+</Switch>
+import Home from "./Project2Eco/Home";
+import Navbar from "./Project2Eco/Navbar";
+import Product from "./Project2Eco/Product";
+import Products from "./Project2Eco/Products";
+import { Switch, Route } from "react-router-dom"; */
