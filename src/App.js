@@ -1,4 +1,4 @@
- import "./App.css";
+import "./App.css";
 import MovieSite from "./Project1/MovieSite";
 
 
