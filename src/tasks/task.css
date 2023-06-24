@@ -1,0 +1,5 @@
+.form-style{ 
+    display: grid;
+    grid-template-columns: 300px;
+    justify-content: center;
+}
