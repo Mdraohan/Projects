@@ -1,11 +1,11 @@
 import "./App.css";
-import MovieSite from "./Project1/MovieSite";
+import Apps from "./Project3TodoList/Apps";
 
 
 function App() {
   return (
     <>
-     <MovieSite/>
+     <Apps/>
     </>
   );
 }
