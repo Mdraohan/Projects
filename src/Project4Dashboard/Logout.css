@@ -1,0 +1,35 @@
+.logout{
+  position: absolute;
+  left: 780px;
+  top: 10px;
+  display: flex;
+  /* flex-direction: column; */
+  /* align-items: end; */
+  /* justify-content: center;  */
+  /* height: 50vh; */
+  font-family: 'Inter';
+  
+}
+.logout_wel{
+  font-size: 23px;
+}
+.logout_button{
+  position: absolute;
+  left: 170px;
+  bottom: 8px;
+    min-width: 50px;
+    /* padding: 17px 30px; */
+    padding: 5px 3px;
+    margin-top: 20px;
+    background: black;
+    border: none;
+    color: white;
+    font-size: 13px;
+    font-family: 'Inter';
+    border-radius: 3px;
+}
+.user_name{
+    color: #8d0ada;
+    padding: 5px 3px;
+    font-size:23px;
+}

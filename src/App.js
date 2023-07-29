@@ -1,14 +1,15 @@
+import React from "react";
 import "./App.css";
-import Task from "./tasks/Task";
-
-
+import Home from "./slideNavigation/Home";
+import { SlideProvider } from "./slideNavigation/SlideContext";
 
 function App() {
   return (
-    <>
-      <Task/>
+    <>  
+       <SlideProvider>
+      <Home/>
+    </SlideProvider>
     </>
   );
 }
-
 export default App;
