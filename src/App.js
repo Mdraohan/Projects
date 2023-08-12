@@ -1,14 +1,11 @@
 import React from "react";
 import "./App.css";
-import Home from "./slideNavigation/Home";
-import { SlideProvider } from "./slideNavigation/SlideContext";
+import Captcha from "./project5captcha/Captcha";
 
 function App() {
   return (
-    <>  
-       <SlideProvider>
-      <Home/>
-    </SlideProvider>
+    <>
+     <Captcha/>
     </>
   );
 }
